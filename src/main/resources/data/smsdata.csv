@@ -1,0 +1,18 @@
+address,category,email,first_name,gender,institute,last_name,phone_number,profile_image_url
+Mumbai,CS,karan.mehta@gmail.com,Ayush,MALE,Modern Institute,Mehta,7766554433,https://img.com/karan.png
+Delhi,CS,neha.sharma@gmail.com,Neha,FEMALE,Modern Institute,Sharma,9001122334,https://img.com/neha.png
+Noida,CS,rohit.verma@gmail.com,Rohit,MALE,XYZ Institute,Verma,9112233445,https://img.com/rohit.png
+Lucknow,CS,pooja.singh@gmail.com,Pooja,FEMALE,XYZ Institute,Singh,9223344556,https://img.com/pooja.png
+Pune,CS,sneha.joshi@gmail.com,Sneha,FEMALE,National College,Joshi,9445566778,https://img.com/sneha.png
+Kanpur,IT,rahul.yadav@gmail.com,Rahul,MALE,Modern Institute,Yadav,9556677889,https://img.com/rahul.png
+Prayagraj,IT,vikas.mishra@gmail.com,Vikas,MALE,Techno Institute,Mishra,9778899001,https://img.com/vikas.png
+Gurgaon,IT,riya.kapoor@gmail.com,Riya,FEMALE,National College,Kapoor,9889900112,https://img.com/riya.png
+Bhopal,MECHANICAL,saurabh.dubey@gmail.com,Saurabh,MALE,ABC Institute,Dubey,8990011223,https://img.com/saurabh.png
+Indore,MECHANICAL,kavita.r@gmail.com,Kavita,FEMALE,Modern Institute,Rathore,8778899002,https://img.com/kavita.png
+Satna,MECHANICAL,nitin.shukla@gmail.com,Nitin,MALE,XYZ Institute,Shukla,8667788993,https://img.com/nitin.png
+Patna,ELECTRICAL,arjun.kumar@gmail.com,Arjun,MALE,Techno Institute,Kumar,8556677884,https://img.com/arjun.png
+Gwalior,ELECTRICAL,meenal.saxena@gmail.com,Meenal,FEMALE,National College,Saxena,8445566775,https://img.com/meenal.png
+Dehradun,ELECTRICAL,deepak.rawat@gmail.com,Kamal,MALE,ABC Institute,Rawat,8334455666,https://img.com/deepak.png
+"Whitefield, Bengaluru, Karnataka",CS,ayushsamar39@gmail.com,Krishna,MALE,Pw Institute Of Innovation,Jain,9521859804,https://example.com/profile.jpg
+"Whitefield, Bengaluru, Karnataka",CS,chaurasiyaayush2006@gmail.com,Dhruv,MALE,PW Institute Innovation,narang,8826230787,https://randomuser.me/api/portraits/men/3.jpg
+"Whitefield, Bengaluru, Karnataka",CIVIL,bhattacharjeearya746@gmail.com,Yatharth,MALE,PW Institute Of Innovation,Singh,9521859867,https://randomuser.me/api/portraits/men/10.jpg
