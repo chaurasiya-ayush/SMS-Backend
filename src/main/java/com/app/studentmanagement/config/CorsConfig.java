@@ -13,7 +13,7 @@ public class CorsConfig implements WebMvcConfigurer {
         .allowedOriginPatterns(
                 "http://localhost:3000",
                 "https://sms-backend-2-jjwg.onrender.com",
-                "https://sms-frontend-flame-six.vercel.app"
+                "https://student-management-system-ayush.vercel.app/"
         )
         .allowedMethods("GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS")
         .allowedHeaders("*")
